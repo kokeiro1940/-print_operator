@@ -1,0 +1,14 @@
+{
+  "name": "print_operator",
+  "version": "1.0.0",
+  "main": "electron.js",
+  "repository": "https://github.com/kokeiro1940/-print_operator.git",
+  "author": "Atsuki-Tonomura <tonomura@mfeed.ad.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.1.2"
+  },
+  "scripts": {
+    "electron": "electron ."
+  }
+}
